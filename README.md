@@ -1,8 +1,6 @@
 
-
-
-
-Password Strength EvaluationObjective
+Password Strength Evaluation:
+Objective
 To understand what makes a password strong and test it against password strength tools. This involves creating and evaluating multiple passwords with varying complexity, length, and character types (uppercase, lowercase, numbers, and symbols).
 
 
